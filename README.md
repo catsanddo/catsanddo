@@ -2,6 +2,6 @@
 ### I enjoy making games and other programs
 Languages I use:
 - Rust
-- C/++
+- C
 - Python
 - Javascript
